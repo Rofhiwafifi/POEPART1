@@ -71,3 +71,6 @@ Organisers are responsible for creating and managing race events. They can add e
 
 Participant
 Participants can view available race events, manage their profile, enrol in events, and view their race results.
+
+CI workflow
+<img width="1061" height="637" alt="image" src="https://github.com/user-attachments/assets/94e00219-844f-4a0e-bb32-8ad2eacfaa97" />
