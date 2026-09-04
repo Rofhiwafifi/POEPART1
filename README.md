@@ -50,9 +50,9 @@ The database includes:
 
 Project Files
 The Docs folder contains:
-- `RaceDay_ERD.pdf` – PDF version of the ERD
+- `ERD.pdf` – PDF version of the ERD
 - `API ENDPOINT PLAN.pdf` – PDF version of the API plan
-- `RaceDayDB.sql` – Database creation and sample data script
+- `RaceManagementDB.sql` – Database creation and sample data script
 
 How to Run
 1. Open `RaceManagementDB.sql` in SQL Server Management Studio.
