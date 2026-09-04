@@ -14,7 +14,6 @@ Project Objectives
 - Provide API endpoints for interacting with the system.
 
 Database
-
 Database name: RaceManagementDB
 
 The database contains 6 tables:
