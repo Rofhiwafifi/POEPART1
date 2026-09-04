@@ -74,6 +74,7 @@ Participants can view available race events, manage their profile, enrol in even
 
 CI workflow
 <img width="1061" height="637" alt="image" src="https://github.com/user-attachments/assets/94e00219-844f-4a0e-bb32-8ad2eacfaa97" />
+<img width="861" height="584" alt="image" src="https://github.com/user-attachments/assets/1661c226-3508-4878-a1f0-9835602c1584" />
 
 Youtube Link
 https://youtu.be/HBpt7IN3QEo
