@@ -1,7 +1,6 @@
 RaceDay Management System
 
 Project Overview
-
 RaceDay Management System is a system for managing running events, organisers, participants, enrolments and race results.
 
 The project uses ASP.NET Core Web API, C#, SQL Server and Swagger.
