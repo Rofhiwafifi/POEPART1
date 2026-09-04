@@ -62,10 +62,8 @@ Part 1 Deliverables
 Part 1 includes the ERD, API Endpoint Plan, SQL Server database script, sample data and project documentation.
 
 A brief description of the two User Roles
-
 Organiser
 Organisers are responsible for creating and managing race events. They can add events, manage categories, view participant enrolments, and record or update race results.
-
 Participant
 Participants can view available race events, manage their profile, enrol in events, and view their race results.
 
